@@ -1,0 +1,1 @@
+data/TP_1/resample_FLAIR_TP1_test_to_sample.nii.gz data/TP_1/reg_T1_TP1_test_to_resample_FLAIR_TP1.nii.gz data/TP_1/resampled_FLAIR_TP1_test_to_sample_TO_MNI.mat data/TP_1/FLAIR_Lesion_mask.nii.gz 
